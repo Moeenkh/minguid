@@ -1,0 +1,10 @@
+c:\users\moeen\documents\visual studio 2012\Projects\minGuid\minGuid\bin\Debug\minGuid.dll
+c:\users\moeen\documents\visual studio 2012\Projects\minGuid\minGuid\bin\Debug\minGuid.pdb
+c:\users\moeen\documents\visual studio 2012\Projects\minGuid\minGuid\obj\Debug\minGuid.csprojResolveAssemblyReference.cache
+c:\users\moeen\documents\visual studio 2012\Projects\minGuid\minGuid\obj\Debug\minGuid.dll
+c:\users\moeen\documents\visual studio 2012\Projects\minGuid\minGuid\obj\Debug\minGuid.pdb
+C:\Users\moeen\Desktop\GUID\minguid\minGuid\bin\Debug\minGuid.dll
+C:\Users\moeen\Desktop\GUID\minguid\minGuid\bin\Debug\minGuid.pdb
+C:\Users\moeen\Desktop\GUID\minguid\minGuid\obj\Debug\minGuid.csprojResolveAssemblyReference.cache
+C:\Users\moeen\Desktop\GUID\minguid\minGuid\obj\Debug\minGuid.dll
+C:\Users\moeen\Desktop\GUID\minguid\minGuid\obj\Debug\minGuid.pdb
